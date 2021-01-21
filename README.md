@@ -1,1 +1,1 @@
-# ExcelR-DataScience-Assignments
+# ExcelR-DataScience-Algorithms & Case Studies
